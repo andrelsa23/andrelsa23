@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Andre Araujo, I am currently a PhD student at Colorado State University. The focus of my research is understanding herbicide resistance in weed populations.
+### My name is Andre Araujo, I am currently a PhD student at Colorado State University. The focus of my research is understanding herbicide resistance in weed populations.
 
 <!--
 **andrelsa23/andrelsa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
