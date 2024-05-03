@@ -6,6 +6,9 @@
 
 [Click here](https://github.com/andrelsa23/my-resources) to access the example folder where there is a script to perform a dose-response curve. There is a folder called Example (the full script is a Rmarkdown file) and the template is in the template folder.
 
+### Interesting
+
+[Click here](https://github.com/andrelsa23/CM515-course-2024/tree/main/modules) to access the modules of Computational Cell and Molecular Biology class.
 
 <!--
 **andrelsa23/andrelsa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
