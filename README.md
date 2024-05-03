@@ -2,6 +2,11 @@
 
 ### My name is Andre Araujo, I am currently a PhD student at Colorado State University. The focus of my research is understanding herbicide resistance in weed populations.
 
+### Useful Links
+
+[Click here](https://github.com/andrelsa23/my-resources) to access the example folder where there is a script to perform a dose-response curve.
+
+
 <!--
 **andrelsa23/andrelsa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
