@@ -4,7 +4,7 @@
 
 ### Useful Links
 
-[Click here](https://github.com/andrelsa23/my-resources) to access the example folder where there is a script to perform a dose-response curve.
+[Click here](https://github.com/andrelsa23/my-resources) to access the example folder where there is a script to perform a dose-response curve. There is a foder called Example (the full script) and the template is in the template folder.
 
 
 <!--
